@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project_To_Be_Uploaded_To_Git\\Message_Encyrpter\\",
+  "WorkspaceRootPath": "D:\\Git\\Message-Encrypter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{220DBCE1-CAD9-447A-B76F-12E17597FA7A}|Message_Encyrpter\\Message_Encyrpter.vcxproj|D:\\Project_To_Be_Uploaded_To_Git\\Message_Encyrpter\\Message_Encyrpter\\Message_Encyrpter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{220DBCE1-CAD9-447A-B76F-12E17597FA7A}|Message_Encyrpter\\Message_Encyrpter.vcxproj|D:\\Git\\Message-Encrypter\\Message_Encyrpter\\Message_Encyrpter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{220DBCE1-CAD9-447A-B76F-12E17597FA7A}|Message_Encyrpter\\Message_Encyrpter.vcxproj|solutionrelative:Message_Encyrpter\\Message_Encyrpter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Message_Encyrpter.cpp",
-              "DocumentMoniker": "D:\\Project_To_Be_Uploaded_To_Git\\Message_Encyrpter\\Message_Encyrpter\\Message_Encyrpter.cpp",
+              "DocumentMoniker": "D:\\Git\\Message-Encrypter\\Message_Encyrpter\\Message_Encyrpter.cpp",
               "RelativeDocumentMoniker": "Message_Encyrpter\\Message_Encyrpter.cpp",
-              "ToolTip": "D:\\Project_To_Be_Uploaded_To_Git\\Message_Encyrpter\\Message_Encyrpter\\Message_Encyrpter.cpp",
+              "ToolTip": "D:\\Git\\Message-Encrypter\\Message_Encyrpter\\Message_Encyrpter.cpp",
               "RelativeToolTip": "Message_Encyrpter\\Message_Encyrpter.cpp",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-09T12:49:26.412Z",
               "EditorCaption": ""
